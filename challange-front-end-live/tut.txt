@@ -1,0 +1,9 @@
+npm - node package manager
+npx- node program runner sorta
+npx create-react-app ChallengeAppFrontend // wont work as it cannot accept capital letters
+npx create-react-app challanger-app-frontend-live
+index.js is entrypoint of react application
+decoding index.js
+    first few lines are just importing necessary things
+Greeting({Name,Message}) here Name and Message are properties of Tag
+to interact with backend we shall use useEffect
