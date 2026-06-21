@@ -1,5 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
+import API_BASE_URL from "../api";
 function AddChallenge({onChallengeAdded}){
     const [month,setMonth]=useState('');
     const [description,setDescription]=useState('');
@@ -7,7 +8,7 @@ function AddChallenge({onChallengeAdded}){
         e.preventDefault();
         try{
             await axios.post(
-                "http://localhost:8080/challenges",
+                `${API_BASE_URL}/challenges`,
                 { month, description }
               );
             setMonth('');

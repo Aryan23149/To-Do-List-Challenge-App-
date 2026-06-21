@@ -6,6 +6,8 @@ import { useEffect, useState } from "react";
 import axios from 'axios';
 import AddChallenge from './components/AddChallenge';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import API_BASE_URL from './api';
+
 
 function App() {
   const [challenges , setChallenges]= useState([]); 
@@ -15,7 +17,9 @@ function App() {
   },[])
   const fetchChallenges= async() => {
     try{
-      const response =await axios.get('http://localhost:8080/challenges'); //wait for a promise to return
+      const response = await axios.get(
+        `${API_BASE_URL}/challenges`
+      );
       console.log(response.data);
       setChallenges(response.data);
     }

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="639a2bb2-86cf-46b2-9134-ebeb5ad75282" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ChallengeApp/src/main/java/com/example/ChallengeApp/ChallengeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengeApp/src/main/java/com/example/ChallengeApp/ChallengeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengeApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengeApp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challange-front-end-live/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/challange-front-end-live/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challange-front-end-live/src/components/AddChallenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/challange-front-end-live/src/components/AddChallenge.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3EAaFI0Hvs7u16RgpMavBj2y5KX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="639a2bb2-86cf-46b2-9134-ebeb5ad75282" name="Changes" comment="" />
+      <created>1779623724358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779623724358</updated>
+      <workItem from="1779652059232" duration="9000" />
+      <workItem from="1779653691813" duration="106000" />
+    </task>
+    <servers />
+  </component>
+</project>
